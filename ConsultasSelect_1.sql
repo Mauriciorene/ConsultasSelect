@@ -149,4 +149,4 @@ ORDER BY [Venta Total] DESC
 
 SELECT TOP 25 PERCENT OrderID, (UnitPrice*Quantity) AS [venta Total]
 FROM [Order Details]
-ORDER BY [Venta Totas] DESC
+ORDER BY [Venta Total] DESC
